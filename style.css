@@ -1,0 +1,21 @@
+#carouselExample {
+    max-width: 600px; 
+    margin: 0 auto; 
+}
+
+.carousel-inner {
+    max-height: 300px; 
+}
+
+.carousel-item img {
+    object-fit: contain; 
+    max-height: 100%;
+    margin: 0 auto; 
+}
+
+.custom-image {
+    width: 500%;
+    height: 400%;
+}
+
+    
